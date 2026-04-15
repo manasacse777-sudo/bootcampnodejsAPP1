@@ -20,6 +20,7 @@ It integrates **CI/CD with security (DevSecOps)** to ensure applications are:
 * Ensure high-quality, vulnerability-free code
 * Deploy containerized applications to AKS
 * Achieve scalable and resilient architecture
+* HELM
 
 ---
 
