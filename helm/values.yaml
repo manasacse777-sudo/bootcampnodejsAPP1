@@ -1,1 +1,10 @@
+replicaCount: 1
 
+image:
+  repository: myynodejsacr777.azurecr.io/jenksq
+  tag: "latest"
+  pullPolicy: IfNotPresent
+
+service:
+  type: ClusterIP
+  port: 3000
